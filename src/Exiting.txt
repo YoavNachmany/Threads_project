@@ -1,0 +1,300 @@
+KI9ep 5 Ariel 6000
+nb8cR 40 Dimona 7000
+WjS2P 19 Ofakim 6000
+iFViO 50 Sakhnin 7000
+klRLt 15 Dimona 7000
+JRkKj 15 Tirat Carmel 6000
+wFYwY 30 Maale Adumim 8000
+P0I02 46 Bat Yam 9000
+S9sG9 47 Nazareth 7000
+rzbHh 45 Givatayim 7000
+grR8l 29 Ariel 5000
+mioDB 15 Taibeh 9000
+E38Eu 36 Harish 7000
+5hmCZ 43 Rishon Lezion 6000
+bVoV8 14 Kiryat Shemone 8000
+MUrv7 30 Qalansawe 6000
+OzHg0 47 Tel Aviv 7000
+6ix2V 50 Kiryat Shemone 8000
+f7TJE 27 Bnei Berak 8000
+fzDVU 15 Tiberias 9000
+84ZWM 36 Raanana 7000
+zSCeR 39 Jerusalem 9000
+5d9dj 41 Jerusalem 6000
+sTnCd 7 Taibeh 8000
+oQnZU 36 Dimona 6000
+Y1NJ5 31 Jerusalem 7000
+1w1Q7 20 Ashdod 8000
+rmCOW 25 Karmiel 8000
+Za1A5 44 Rishon Lezion 8000
+fBLgW 40 Hadera 6000
+LrcRk 49 Rahat 6000
+G2Kzu 18 Kiryat Ata 9000
+ke8nX 30 Kiryat Gat 9000
+ArOb8 29 Tira 8000
+c9jVv 7 Tsfat (Safed) 5000
+Zbnmo 47 Beit Shemesh 9000
+WzsPf 39 Nof Hagalil 5000
+4RY9R 41 Tamra 9000
+pDqj3 25 Arad 8000
+or9Oh 36 Tsfat (Safed) 6000
+ogTRO 29 Kfar Sava 8000
+rlvkz 26 Hod HaSharon 9000
+sX20M 19 Kiryat Yam 6000
+GLCd8 31 Hod HaSharon 9000
+sLJQH 26 Ofakim 9000
+uYRnm 12 Rishon Lezion 8000
+zUpQr 16 Holon 9000
+rMUbG 50 Taibeh 7000
+MEK0v 21 Jerusalem 8000
+gtJor 17 Netivot 5000
+GWt8q 8 Nes Ziona 8000
+aRbtO 29 Ashkelon 7000
+wpu8x 7 Qalansawe 8000
+yoDt7 44 Sderot 5000
+KY0fd 47 Holon 9000
+36fGd 7 Elad 6000
+ikMDV 7 Rehovot 9000
+mEg0R 43 Netivot 9000
+22KMI 29 Harish 5000
+Pw3E1 36 Ashkelon 7000
+wFAys 34 Yavne 5000
+oOMxL 49 Sderot 8000
+b8U4k 40 Migdal HaEmek 5000
+5fuvQ 43 Holon 9000
+nebSi 28 Tamra 7000
+h8WQb 43 Ariel 7000
+set9S 48 Qalansawe 9000
+lf974 34 Nazareth 6000
+VAmVw 43 Kiryat Ono 9000
+uiLY8 37 Ashkelon 5000
+zsecr 42 Migdal HaEmek 5000
+AU7Du 27 Kiryat Yam 5000
+bbMMW 15 Shefaram 9000
+i3cy8 19 Or Akiva 6000
+UKhOm 44 Rosh Ha'ayin 9000
+BoQl0 10 Maale Adumim 5000
+T4SQ9 47 Ramat-Gan 5000
+60eDo 19 Dimona 5000
+3XEt0 30 Herzliya 5000
+Dp044 25 Or Yehuda 7000
+jqLQI 50 Ramla 5000
+csmEt 46 Nesher 6000
+yh5Md 30 Lod 5000
+UZJlw 19 Jerusalem 8000
+MVhNw 35 Bat Yam 7000
+Lm2K7 21 Kiryat Ata 6000
+ObSVo 27 Arad 9000
+n1iRH 42 Modiin 6000
+aPXuT 45 Ramat Hasharon 8000
+yi8SS 27 Tamra 6000
+Gngwu 7 Nahariya 6000
+aVQ5O 19 Beer Sheva 5000
+YIKE0 24 Arad 7000
+XvVMe 34 Or Akiva 6000
+M1Bay 31 Rahat 5000
+4bPap 27 Baqa al-Gharbiyye 8000
+pTRXw 15 Sderot 8000
+2YOQ1 28 Givatayim 8000
+19dll 28 Modiin 7000
+Tamj9 28 Kiryat Gat 9000
+KI9ep 5 Ariel 6000
+nb8cR 40 Dimona 6000
+WjS2P 19 Ofakim 7000
+iFViO 50 Sakhnin 8000
+klRLt 15 Dimona 8000
+JRkKj 15 Tirat Carmel 8000
+wFYwY 30 Maale Adumim 5000
+P0I02 46 Bat Yam 6000
+S9sG9 47 Nazareth 6000
+rzbHh 45 Givatayim 7000
+grR8l 29 Ariel 5000
+mioDB 15 Taibeh 8000
+E38Eu 36 Harish 8000
+5hmCZ 43 Rishon Lezion 7000
+bVoV8 14 Kiryat Shemone 9000
+MUrv7 30 Qalansawe 8000
+6ix2V 50 Kiryat Shemone 6000
+f7TJE 27 Bnei Berak 7000
+OzHg0 47 Tel Aviv 7000
+fzDVU 15 Tiberias 8000
+zSCeR 39 Jerusalem 6000
+sTnCd 7 Taibeh 5000
+84ZWM 36 Raanana 7000
+5d9dj 41 Jerusalem 7000
+oQnZU 36 Dimona 5000
+1w1Q7 20 Ashdod 8000
+Y1NJ5 31 Jerusalem 7000
+rmCOW 25 Karmiel 7000
+Za1A5 44 Rishon Lezion 8000
+fBLgW 40 Hadera 9000
+LrcRk 49 Rahat 7000
+ke8nX 30 Kiryat Gat 5000
+G2Kzu 18 Kiryat Ata 9000
+ArOb8 29 Tira 7000
+Zbnmo 47 Beit Shemesh 9000
+c9jVv 7 Tsfat (Safed) 9000
+WzsPf 39 Nof Hagalil 6000
+pDqj3 25 Arad 5000
+4RY9R 41 Tamra 9000
+or9Oh 36 Tsfat (Safed) 7000
+ogTRO 29 Kfar Sava 6000
+sX20M 19 Kiryat Yam 6000
+rlvkz 26 Hod HaSharon 9000
+sLJQH 26 Ofakim 5000
+GLCd8 31 Hod HaSharon 8000
+uYRnm 12 Rishon Lezion 7000
+zUpQr 16 Holon 7000
+rMUbG 50 Taibeh 7000
+GWt8q 8 Nes Ziona 9000
+MEK0v 21 Jerusalem 5000
+gtJor 17 Netivot 7000
+aRbtO 29 Ashkelon 5000
+wpu8x 7 Qalansawe 5000
+yoDt7 44 Sderot 9000
+KY0fd 47 Holon 6000
+36fGd 7 Elad 8000
+ikMDV 7 Rehovot 9000
+Pw3E1 36 Ashkelon 5000
+mEg0R 43 Netivot 9000
+22KMI 29 Harish 6000
+oOMxL 49 Sderot 5000
+wFAys 34 Yavne 7000
+b8U4k 40 Migdal HaEmek 9000
+5fuvQ 43 Holon 7000
+nebSi 28 Tamra 7000
+set9S 48 Qalansawe 6000
+h8WQb 43 Ariel 8000
+lf974 34 Nazareth 5000
+uiLY8 37 Ashkelon 5000
+VAmVw 43 Kiryat Ono 6000
+bbMMW 15 Shefaram 6000
+zsecr 42 Migdal HaEmek 8000
+AU7Du 27 Kiryat Yam 7000
+i3cy8 19 Or Akiva 9000
+UKhOm 44 Rosh Ha'ayin 9000
+Dp044 25 Or Yehuda 7000
+T4SQ9 47 Ramat-Gan 8000
+BoQl0 10 Maale Adumim 8000
+60eDo 19 Dimona 8000
+csmEt 46 Nesher 9000
+3XEt0 30 Herzliya 6000
+UZJlw 19 Jerusalem 7000
+jqLQI 50 Ramla 8000
+yh5Md 30 Lod 5000
+MVhNw 35 Bat Yam 8000
+ObSVo 27 Arad 9000
+Lm2K7 21 Kiryat Ata 6000
+n1iRH 42 Modiin 9000
+aPXuT 45 Ramat Hasharon 9000
+Gngwu 7 Nahariya 9000
+yi8SS 27 Tamra 6000
+YIKE0 24 Arad 6000
+XvVMe 34 Or Akiva 8000
+aVQ5O 19 Beer Sheva 5000
+4bPap 27 Baqa al-Gharbiyye 7000
+M1Bay 31 Rahat 9000
+pTRXw 15 Sderot 8000
+Tamj9 28 Kiryat Gat 6000
+2YOQ1 28 Givatayim 8000
+19dll 28 Modiin 8000
+KI9ep 5 Ariel 8000
+nb8cR 40 Dimona 9000
+WjS2P 19 Ofakim 5000
+iFViO 50 Sakhnin 6000
+klRLt 15 Dimona 7000
+JRkKj 15 Tirat Carmel 9000
+wFYwY 30 Maale Adumim 5000
+P0I02 46 Bat Yam 9000
+S9sG9 47 Nazareth 8000
+grR8l 29 Ariel 9000
+rzbHh 45 Givatayim 9000
+mioDB 15 Taibeh 8000
+E38Eu 36 Harish 6000
+5hmCZ 43 Rishon Lezion 6000
+bVoV8 14 Kiryat Shemone 6000
+MUrv7 30 Qalansawe 5000
+OzHg0 47 Tel Aviv 8000
+f7TJE 27 Bnei Berak 9000
+fzDVU 15 Tiberias 6000
+6ix2V 50 Kiryat Shemone 9000
+zSCeR 39 Jerusalem 7000
+84ZWM 36 Raanana 5000
+5d9dj 41 Jerusalem 6000
+sTnCd 7 Taibeh 8000
+oQnZU 36 Dimona 5000
+Y1NJ5 31 Jerusalem 9000
+1w1Q7 20 Ashdod 8000
+rmCOW 25 Karmiel 6000
+Za1A5 44 Rishon Lezion 9000
+fBLgW 40 Hadera 6000
+G2Kzu 18 Kiryat Ata 5000
+LrcRk 49 Rahat 5000
+ke8nX 30 Kiryat Gat 7000
+ArOb8 29 Tira 7000
+c9jVv 7 Tsfat (Safed) 8000
+Zbnmo 47 Beit Shemesh 9000
+WzsPf 39 Nof Hagalil 7000
+4RY9R 41 Tamra 8000
+pDqj3 25 Arad 9000
+ogTRO 29 Kfar Sava 9000
+rlvkz 26 Hod HaSharon 5000
+or9Oh 36 Tsfat (Safed) 8000
+sX20M 19 Kiryat Yam 6000
+GLCd8 31 Hod HaSharon 6000
+sLJQH 26 Ofakim 8000
+zUpQr 16 Holon 9000
+uYRnm 12 Rishon Lezion 8000
+rMUbG 50 Taibeh 6000
+MEK0v 21 Jerusalem 5000
+GWt8q 8 Nes Ziona 6000
+gtJor 17 Netivot 6000
+wpu8x 7 Qalansawe 6000
+yoDt7 44 Sderot 5000
+aRbtO 29 Ashkelon 6000
+36fGd 7 Elad 5000
+KY0fd 47 Holon 8000
+ikMDV 7 Rehovot 7000
+mEg0R 43 Netivot 7000
+Pw3E1 36 Ashkelon 7000
+oOMxL 49 Sderot 6000
+22KMI 29 Harish 9000
+wFAys 34 Yavne 8000
+5fuvQ 43 Holon 6000
+b8U4k 40 Migdal HaEmek 6000
+set9S 48 Qalansawe 6000
+nebSi 28 Tamra 8000
+lf974 34 Nazareth 5000
+h8WQb 43 Ariel 6000
+VAmVw 43 Kiryat Ono 6000
+uiLY8 37 Ashkelon 7000
+zsecr 42 Migdal HaEmek 7000
+bbMMW 15 Shefaram 5000
+AU7Du 27 Kiryat Yam 5000
+i3cy8 19 Or Akiva 8000
+UKhOm 44 Rosh Ha'ayin 9000
+T4SQ9 47 Ramat-Gan 5000
+60eDo 19 Dimona 6000
+Dp044 25 Or Yehuda 8000
+BoQl0 10 Maale Adumim 8000
+3XEt0 30 Herzliya 7000
+csmEt 46 Nesher 8000
+yh5Md 30 Lod 7000
+jqLQI 50 Ramla 5000
+UZJlw 19 Jerusalem 7000
+MVhNw 35 Bat Yam 8000
+ObSVo 27 Arad 7000
+Lm2K7 21 Kiryat Ata 6000
+n1iRH 42 Modiin 9000
+aPXuT 45 Ramat Hasharon 5000
+yi8SS 27 Tamra 6000
+Gngwu 7 Nahariya 9000
+YIKE0 24 Arad 8000
+aVQ5O 19 Beer Sheva 5000
+XvVMe 34 Or Akiva 9000
+pTRXw 15 Sderot 5000
+4bPap 27 Baqa al-Gharbiyye 8000
+2YOQ1 28 Givatayim 7000
+M1Bay 31 Rahat 9000
+19dll 28 Modiin 6000
+Tamj9 28 Kiryat Gat 7000
